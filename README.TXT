@@ -16,3 +16,19 @@ some simple code. See chapters one and three of the book.
 To use this project, create some Student objects, then create a LabClass object.
 Add the students to the class using the "enrolStudent" method. Print a class
 list.
+
+
+Answers to 30-36
+
+30: Int is use to represent whole numbers whithout any decimales. String is use to apply a code or a value.
+
+31: 0   = int
+
+“hello”  = string
+101  = int
+-1     = int
+true   = int
+“33”   = string
+3.1415  = int
+
+32: 
